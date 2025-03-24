@@ -1,0 +1,14 @@
+{
+    "id": "string",
+    "timestamp": "datetime",
+    "severity": ["info", "warning", "error", "critical"],
+    "component": "string",
+    "description": "string",
+    "logs": ["string"],
+    "diagnostics": {
+      "cpu_usage": "number",
+      "memory_mb": "number"
+    },
+    "status": ["open", "in_progress", "resolved"]
+  }
+  
