@@ -9,6 +9,18 @@
       "cpu_usage": "number",
       "memory_mb": "number"
     },
-    "status": ["open", "in_progress", "resolved"]
+    "status": ["open", "in_progress", "resolved"],
+
+    "assigned_to": "string",
+    "tags": ["string"],
+    "related_issues": ["string"],
+    "resolved_notes": "string",
+    "last_updated": "datetime",
+    "priority": ["low", "medium", "high"],
+    "environment": {
+      "os": "string",
+      "version": "string",
+      "region": "string"
+    }
   }
   
