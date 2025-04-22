@@ -1,0 +1,770 @@
+[
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T05:47:43.506447",
+    "cpu_usage": 48.94,
+    "memory_usage": 6098,
+    "http_latency": 893,
+    "active_users": 4
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T05:52:43.506447",
+    "cpu_usage": 17.77,
+    "memory_usage": 8136,
+    "http_latency": 755,
+    "active_users": 48
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T05:57:43.506447",
+    "cpu_usage": 65.49,
+    "memory_usage": 5532,
+    "http_latency": 610,
+    "active_users": 9
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T06:02:43.506447",
+    "cpu_usage": 10.46,
+    "memory_usage": 4845,
+    "http_latency": 489,
+    "active_users": 16
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T06:07:43.506447",
+    "cpu_usage": 56.45,
+    "memory_usage": 1605,
+    "http_latency": 695,
+    "active_users": 65
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T06:12:43.506447",
+    "cpu_usage": 25.1,
+    "memory_usage": 2556,
+    "http_latency": 796,
+    "active_users": 130
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T06:17:43.506447",
+    "cpu_usage": 47.56,
+    "memory_usage": 3805,
+    "http_latency": 198,
+    "active_users": 128
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T06:22:43.506447",
+    "cpu_usage": 18.42,
+    "memory_usage": 4884,
+    "http_latency": 175,
+    "active_users": 53
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T06:27:43.506447",
+    "cpu_usage": 45.65,
+    "memory_usage": 5368,
+    "http_latency": 894,
+    "active_users": 58
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T06:32:43.506447",
+    "cpu_usage": 93.02,
+    "memory_usage": 4372,
+    "http_latency": 695,
+    "active_users": 59
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T06:37:43.506447",
+    "cpu_usage": 41.18,
+    "memory_usage": 6279,
+    "http_latency": 431,
+    "active_users": 4
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T06:42:43.506447",
+    "cpu_usage": 88.44,
+    "memory_usage": 7371,
+    "http_latency": 781,
+    "active_users": 84
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T06:47:43.506447",
+    "cpu_usage": 68.89,
+    "memory_usage": 5343,
+    "http_latency": 76,
+    "active_users": 117
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T06:52:43.506447",
+    "cpu_usage": 21.34,
+    "memory_usage": 7102,
+    "http_latency": 871,
+    "active_users": 2
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T06:57:43.506447",
+    "cpu_usage": 57.63,
+    "memory_usage": 5465,
+    "http_latency": 168,
+    "active_users": 44
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T07:02:43.506447",
+    "cpu_usage": 75.54,
+    "memory_usage": 6976,
+    "http_latency": 181,
+    "active_users": 120
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T07:07:43.506447",
+    "cpu_usage": 44.69,
+    "memory_usage": 6191,
+    "http_latency": 80,
+    "active_users": 55
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T07:12:43.506447",
+    "cpu_usage": 42.79,
+    "memory_usage": 3567,
+    "http_latency": 884,
+    "active_users": 142
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T07:17:43.506447",
+    "cpu_usage": 26.74,
+    "memory_usage": 5220,
+    "http_latency": 236,
+    "active_users": 80
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T07:22:43.506447",
+    "cpu_usage": 47.26,
+    "memory_usage": 1158,
+    "http_latency": 812,
+    "active_users": 50
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T07:27:43.506447",
+    "cpu_usage": 64.98,
+    "memory_usage": 7117,
+    "http_latency": 121,
+    "active_users": 25
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T07:32:43.506447",
+    "cpu_usage": 17.86,
+    "memory_usage": 1886,
+    "http_latency": 505,
+    "active_users": 123
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T07:37:43.506447",
+    "cpu_usage": 72.75,
+    "memory_usage": 862,
+    "http_latency": 501,
+    "active_users": 90
+  },
+  {
+    "component": "auth-service",
+    "timestamp": "2025-04-07T07:42:43.506447",
+    "cpu_usage": 48.02,
+    "memory_usage": 8073,
+    "http_latency": 62,
+    "active_users": 128
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T05:47:43.506447",
+    "cpu_usage": 42.41,
+    "memory_usage": 8189,
+    "http_latency": 224,
+    "active_users": 31
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T05:52:43.506447",
+    "cpu_usage": 67.87,
+    "memory_usage": 6977,
+    "http_latency": 436,
+    "active_users": 51
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T05:57:43.506447",
+    "cpu_usage": 12.91,
+    "memory_usage": 6492,
+    "http_latency": 677,
+    "active_users": 12
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T06:02:43.506447",
+    "cpu_usage": 35.21,
+    "memory_usage": 2410,
+    "http_latency": 731,
+    "active_users": 12
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T06:07:43.506447",
+    "cpu_usage": 34.8,
+    "memory_usage": 4926,
+    "http_latency": 619,
+    "active_users": 116
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T06:12:43.506447",
+    "cpu_usage": 72.78,
+    "memory_usage": 6015,
+    "http_latency": 677,
+    "active_users": 17
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T06:17:43.506447",
+    "cpu_usage": 38.47,
+    "memory_usage": 4044,
+    "http_latency": 266,
+    "active_users": 5
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T06:22:43.506447",
+    "cpu_usage": 32.06,
+    "memory_usage": 1961,
+    "http_latency": 158,
+    "active_users": 45
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T06:27:43.506447",
+    "cpu_usage": 70.93,
+    "memory_usage": 3742,
+    "http_latency": 52,
+    "active_users": 108
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T06:32:43.506447",
+    "cpu_usage": 35.88,
+    "memory_usage": 7722,
+    "http_latency": 516,
+    "active_users": 70
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T06:37:43.506447",
+    "cpu_usage": 46.92,
+    "memory_usage": 7679,
+    "http_latency": 102,
+    "active_users": 80
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T06:42:43.506447",
+    "cpu_usage": 55.35,
+    "memory_usage": 3623,
+    "http_latency": 242,
+    "active_users": 82
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T06:47:43.506447",
+    "cpu_usage": 50.53,
+    "memory_usage": 2004,
+    "http_latency": 186,
+    "active_users": 79
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T06:52:43.506447",
+    "cpu_usage": 88.63,
+    "memory_usage": 6420,
+    "http_latency": 101,
+    "active_users": 124
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T06:57:43.506447",
+    "cpu_usage": 80.08,
+    "memory_usage": 1532,
+    "http_latency": 712,
+    "active_users": 56
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T07:02:43.506447",
+    "cpu_usage": 21.77,
+    "memory_usage": 6952,
+    "http_latency": 673,
+    "active_users": 75
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T07:07:43.506447",
+    "cpu_usage": 78.85,
+    "memory_usage": 4861,
+    "http_latency": 824,
+    "active_users": 46
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T07:12:43.506447",
+    "cpu_usage": 38.55,
+    "memory_usage": 6561,
+    "http_latency": 320,
+    "active_users": 140
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T07:17:43.506447",
+    "cpu_usage": 38.46,
+    "memory_usage": 716,
+    "http_latency": 70,
+    "active_users": 56
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T07:22:43.506447",
+    "cpu_usage": 79.83,
+    "memory_usage": 2897,
+    "http_latency": 721,
+    "active_users": 89
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T07:27:43.506447",
+    "cpu_usage": 88.01,
+    "memory_usage": 4586,
+    "http_latency": 166,
+    "active_users": 116
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T07:32:43.506447",
+    "cpu_usage": 74.34,
+    "memory_usage": 2006,
+    "http_latency": 827,
+    "active_users": 94
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T07:37:43.506447",
+    "cpu_usage": 58.08,
+    "memory_usage": 2472,
+    "http_latency": 625,
+    "active_users": 36
+  },
+  {
+    "component": "frontend",
+    "timestamp": "2025-04-07T07:42:43.506447",
+    "cpu_usage": 88.3,
+    "memory_usage": 3964,
+    "http_latency": 141,
+    "active_users": 89
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T05:47:43.506447",
+    "cpu_usage": 86.28,
+    "memory_usage": 3407,
+    "http_latency": 85,
+    "active_users": 131
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T05:52:43.506447",
+    "cpu_usage": 26.49,
+    "memory_usage": 3813,
+    "http_latency": 807,
+    "active_users": 45
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T05:57:43.506447",
+    "cpu_usage": 74.57,
+    "memory_usage": 5364,
+    "http_latency": 147,
+    "active_users": 52
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T06:02:43.506447",
+    "cpu_usage": 26.04,
+    "memory_usage": 8104,
+    "http_latency": 566,
+    "active_users": 63
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T06:07:43.506447",
+    "cpu_usage": 57.38,
+    "memory_usage": 4042,
+    "http_latency": 209,
+    "active_users": 126
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T06:12:43.506447",
+    "cpu_usage": 37.72,
+    "memory_usage": 4306,
+    "http_latency": 258,
+    "active_users": 91
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T06:17:43.506447",
+    "cpu_usage": 89.65,
+    "memory_usage": 4903,
+    "http_latency": 784,
+    "active_users": 125
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T06:22:43.506447",
+    "cpu_usage": 57.93,
+    "memory_usage": 7754,
+    "http_latency": 645,
+    "active_users": 85
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T06:27:43.506447",
+    "cpu_usage": 86.17,
+    "memory_usage": 1067,
+    "http_latency": 318,
+    "active_users": 53
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T06:32:43.506447",
+    "cpu_usage": 16.63,
+    "memory_usage": 6002,
+    "http_latency": 802,
+    "active_users": 51
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T06:37:43.506447",
+    "cpu_usage": 40.76,
+    "memory_usage": 3118,
+    "http_latency": 838,
+    "active_users": 86
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T06:42:43.506447",
+    "cpu_usage": 25.88,
+    "memory_usage": 6854,
+    "http_latency": 73,
+    "active_users": 8
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T06:47:43.506447",
+    "cpu_usage": 78.67,
+    "memory_usage": 7585,
+    "http_latency": 76,
+    "active_users": 44
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T06:52:43.506447",
+    "cpu_usage": 74.34,
+    "memory_usage": 1900,
+    "http_latency": 119,
+    "active_users": 57
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T06:57:43.506447",
+    "cpu_usage": 37.8,
+    "memory_usage": 7493,
+    "http_latency": 582,
+    "active_users": 48
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T07:02:43.506447",
+    "cpu_usage": 75.74,
+    "memory_usage": 4454,
+    "http_latency": 708,
+    "active_users": 61
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T07:07:43.506447",
+    "cpu_usage": 92.18,
+    "memory_usage": 7712,
+    "http_latency": 565,
+    "active_users": 104
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T07:12:43.506447",
+    "cpu_usage": 76.67,
+    "memory_usage": 4145,
+    "http_latency": 316,
+    "active_users": 131
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T07:17:43.506447",
+    "cpu_usage": 85.0,
+    "memory_usage": 5336,
+    "http_latency": 110,
+    "active_users": 109
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T07:22:43.506447",
+    "cpu_usage": 60.93,
+    "memory_usage": 7001,
+    "http_latency": 140,
+    "active_users": 134
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T07:27:43.506447",
+    "cpu_usage": 25.9,
+    "memory_usage": 3582,
+    "http_latency": 119,
+    "active_users": 116
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T07:32:43.506447",
+    "cpu_usage": 15.04,
+    "memory_usage": 1993,
+    "http_latency": 684,
+    "active_users": 10
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T07:37:43.506447",
+    "cpu_usage": 18.63,
+    "memory_usage": 5072,
+    "http_latency": 661,
+    "active_users": 120
+  },
+  {
+    "component": "database",
+    "timestamp": "2025-04-07T07:42:43.506447",
+    "cpu_usage": 48.14,
+    "memory_usage": 8170,
+    "http_latency": 672,
+    "active_users": 1
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T05:47:43.506447",
+    "cpu_usage": 18.15,
+    "memory_usage": 3746,
+    "http_latency": 361,
+    "active_users": 130
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T05:52:43.506447",
+    "cpu_usage": 35.99,
+    "memory_usage": 5516,
+    "http_latency": 270,
+    "active_users": 101
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T05:57:43.506447",
+    "cpu_usage": 72.59,
+    "memory_usage": 2155,
+    "http_latency": 719,
+    "active_users": 50
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T06:02:43.506447",
+    "cpu_usage": 19.14,
+    "memory_usage": 4115,
+    "http_latency": 649,
+    "active_users": 71
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T06:07:43.506447",
+    "cpu_usage": 86.68,
+    "memory_usage": 7823,
+    "http_latency": 421,
+    "active_users": 137
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T06:12:43.506447",
+    "cpu_usage": 42.01,
+    "memory_usage": 6428,
+    "http_latency": 795,
+    "active_users": 101
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T06:17:43.506447",
+    "cpu_usage": 13.35,
+    "memory_usage": 6976,
+    "http_latency": 556,
+    "active_users": 119
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T06:22:43.506447",
+    "cpu_usage": 29.77,
+    "memory_usage": 868,
+    "http_latency": 165,
+    "active_users": 137
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T06:27:43.506447",
+    "cpu_usage": 56.64,
+    "memory_usage": 6023,
+    "http_latency": 495,
+    "active_users": 55
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T06:32:43.506447",
+    "cpu_usage": 64.8,
+    "memory_usage": 3288,
+    "http_latency": 128,
+    "active_users": 143
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T06:37:43.506447",
+    "cpu_usage": 57.64,
+    "memory_usage": 2097,
+    "http_latency": 55,
+    "active_users": 19
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T06:42:43.506447",
+    "cpu_usage": 37.58,
+    "memory_usage": 2696,
+    "http_latency": 507,
+    "active_users": 79
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T06:47:43.506447",
+    "cpu_usage": 58.71,
+    "memory_usage": 5567,
+    "http_latency": 692,
+    "active_users": 147
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T06:52:43.506447",
+    "cpu_usage": 28.85,
+    "memory_usage": 5975,
+    "http_latency": 581,
+    "active_users": 97
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T06:57:43.506447",
+    "cpu_usage": 52.78,
+    "memory_usage": 2545,
+    "http_latency": 95,
+    "active_users": 42
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T07:02:43.506447",
+    "cpu_usage": 18.81,
+    "memory_usage": 2510,
+    "http_latency": 177,
+    "active_users": 120
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T07:07:43.506447",
+    "cpu_usage": 88.17,
+    "memory_usage": 4710,
+    "http_latency": 482,
+    "active_users": 133
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T07:12:43.506447",
+    "cpu_usage": 19.68,
+    "memory_usage": 1981,
+    "http_latency": 490,
+    "active_users": 48
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T07:17:43.506447",
+    "cpu_usage": 56.22,
+    "memory_usage": 6134,
+    "http_latency": 477,
+    "active_users": 66
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T07:22:43.506447",
+    "cpu_usage": 12.7,
+    "memory_usage": 928,
+    "http_latency": 573,
+    "active_users": 51
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T07:27:43.506447",
+    "cpu_usage": 30.63,
+    "memory_usage": 4898,
+    "http_latency": 165,
+    "active_users": 96
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T07:32:43.506447",
+    "cpu_usage": 28.93,
+    "memory_usage": 4988,
+    "http_latency": 142,
+    "active_users": 62
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T07:37:43.506447",
+    "cpu_usage": 17.39,
+    "memory_usage": 7777,
+    "http_latency": 629,
+    "active_users": 90
+  },
+  {
+    "component": "payment-gateway",
+    "timestamp": "2025-04-07T07:42:43.506447",
+    "cpu_usage": 89.34,
+    "memory_usage": 7096,
+    "http_latency": 685,
+    "active_users": 19
+  }
+]

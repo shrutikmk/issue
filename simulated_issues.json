@@ -1,0 +1,351 @@
+[
+  {
+    "id": "ISSUE-001",
+    "timestamp": "2025-04-07T07:14:37.711889",
+    "severity": "warning",
+    "component": "payment-gateway",
+    "description": "Lot do garden on allow authority either three.",
+    "logs": [
+      "Error in auth-service: Half once put not raise.",
+      "CPU usage spike to 95.79%.",
+      "CPU usage spike to 14.88%."
+    ],
+    "diagnostics": {
+      "cpu_usage": 59.68,
+      "memory_mb": 1450
+    },
+    "status": "resolved",
+    "assigned_to": "wileyjacob",
+    "tags": [
+      "API",
+      "performance"
+    ],
+    "related_issues": [
+      "ISSUE-014",
+      "ISSUE-009"
+    ],
+    "resolved_notes": "One whatever wear fly modern collection approach remain thing treat candidate.",
+    "last_updated": "2025-04-07T07:14:37.711889",
+    "priority": "low",
+    "environment": {
+      "os": "macOS",
+      "version": "3.8.30",
+      "region": "ap-southeast-1"
+    }
+  },
+  {
+    "id": "ISSUE-002",
+    "timestamp": "2025-04-07T07:14:37.712697",
+    "severity": "info",
+    "component": "frontend",
+    "description": "Develop pressure poor responsibility how side take occur himself evidence movie.",
+    "logs": [
+      "Token expired for session 45a8a05d.",
+      "User 1087 failed login attempt.",
+      "Service frontend responded with status 500.",
+      "Error in auth-service: Sometimes discussion make per state.",
+      "Error in frontend: It six box executive."
+    ],
+    "diagnostics": {
+      "cpu_usage": 66.66,
+      "memory_mb": 2737
+    },
+    "status": "resolved",
+    "assigned_to": "angela70",
+    "tags": [
+      "db",
+      "timeout"
+    ],
+    "related_issues": [
+      "ISSUE-015",
+      "ISSUE-003"
+    ],
+    "resolved_notes": "College agree half million describe eat sea suggest model sometimes friend treat really a lose difficult.",
+    "last_updated": "2025-04-07T07:14:37.712697",
+    "priority": "high",
+    "environment": {
+      "os": "Ubuntu",
+      "version": "6.3.3",
+      "region": "us-east-1"
+    }
+  },
+  {
+    "id": "ISSUE-003",
+    "timestamp": "2025-04-07T07:14:37.713423",
+    "severity": "error",
+    "component": "payment-gateway",
+    "description": "Body not compare run deal town maintain he maintain me.",
+    "logs": [
+      "CPU usage spike to 26.08%.",
+      "Memory usage at 8056MB exceeded threshold.",
+      "CPU usage spike to 79.45%.",
+      "CPU usage spike to 42.37%.",
+      "Error in database: Southern raise fear agree player."
+    ],
+    "diagnostics": {
+      "cpu_usage": 89.46,
+      "memory_mb": 5588
+    },
+    "status": "open",
+    "assigned_to": "njohnson",
+    "tags": [
+      "performance",
+      "API"
+    ],
+    "related_issues": [
+      "ISSUE-012",
+      "ISSUE-008"
+    ],
+    "resolved_notes": "Forget general team of stand member analysis religious many television.",
+    "last_updated": "2025-04-07T07:14:37.713423",
+    "priority": "low",
+    "environment": {
+      "os": "macOS",
+      "version": "8.4.19",
+      "region": "ap-southeast-1"
+    }
+  },
+  {
+    "id": "ISSUE-004",
+    "timestamp": "2025-04-07T07:14:37.713631",
+    "severity": "critical",
+    "component": "auth-service",
+    "description": "All foreign evening life something likely tax politics care benefit.",
+    "logs": [
+      "User 2191 failed login attempt.",
+      "User 6879 failed login attempt.",
+      "Token expired for session cfac86d4."
+    ],
+    "diagnostics": {
+      "cpu_usage": 81.44,
+      "memory_mb": 6218
+    },
+    "status": "open",
+    "assigned_to": "hgray",
+    "tags": [
+      "timeout",
+      "API"
+    ],
+    "related_issues": [
+      "ISSUE-005",
+      "ISSUE-013"
+    ],
+    "resolved_notes": "Bank accept account issue might chance well social fill carry perhaps.",
+    "last_updated": "2025-04-07T07:14:37.713631",
+    "priority": "medium",
+    "environment": {
+      "os": "Windows",
+      "version": "8.0.36",
+      "region": "ap-southeast-1"
+    }
+  },
+  {
+    "id": "ISSUE-005",
+    "timestamp": "2025-04-07T07:14:37.713796",
+    "severity": "warning",
+    "component": "auth-service",
+    "description": "Fight movie according plan each top employee them source much wrong.",
+    "logs": [
+      "Token expired for session a09403e7.",
+      "Memory usage at 3867MB exceeded threshold.",
+      "Token expired for session 696f57b4."
+    ],
+    "diagnostics": {
+      "cpu_usage": 15.92,
+      "memory_mb": 1908
+    },
+    "status": "in_progress",
+    "assigned_to": "fernandezcourtney",
+    "tags": [
+      "performance",
+      "timeout"
+    ],
+    "related_issues": [
+      "ISSUE-008",
+      "ISSUE-014"
+    ],
+    "resolved_notes": "Section positive help certainly high physical reach career part improve.",
+    "last_updated": "2025-04-07T07:14:37.713796",
+    "priority": "low",
+    "environment": {
+      "os": "Ubuntu",
+      "version": "3.7.33",
+      "region": "us-east-1"
+    }
+  },
+  {
+    "id": "ISSUE-006",
+    "timestamp": "2025-04-07T07:14:37.714165",
+    "severity": "critical",
+    "component": "frontend",
+    "description": "Community expect begin north process every there their phone chair decide today bit.",
+    "logs": [
+      "Token expired for session 4b9ccc62.",
+      "CPU usage spike to 61.42%.",
+      "Error in logger: These those example throw.",
+      "User 6068 failed login attempt.",
+      "Token expired for session 207f77d2.",
+      "User 1967 failed login attempt."
+    ],
+    "diagnostics": {
+      "cpu_usage": 29.29,
+      "memory_mb": 1546
+    },
+    "status": "resolved",
+    "assigned_to": "carterdonna",
+    "tags": [
+      "API",
+      "performance"
+    ],
+    "related_issues": [
+      "ISSUE-017",
+      "ISSUE-009"
+    ],
+    "resolved_notes": "Store song lose production career large remain her nothing answer artist according.",
+    "last_updated": "2025-04-07T07:14:37.714165",
+    "priority": "low",
+    "environment": {
+      "os": "Windows",
+      "version": "9.4.20",
+      "region": "eu-west-2"
+    }
+  },
+  {
+    "id": "ISSUE-007",
+    "timestamp": "2025-04-07T07:14:37.714987",
+    "severity": "error",
+    "component": "payment-gateway",
+    "description": "On hard tend great else cell concern still foot statement fast.",
+    "logs": [
+      "User 1912 failed login attempt.",
+      "CPU usage spike to 57.27%.",
+      "User 1346 failed login attempt."
+    ],
+    "diagnostics": {
+      "cpu_usage": 88.82,
+      "memory_mb": 2967
+    },
+    "status": "resolved",
+    "assigned_to": "evantrujillo",
+    "tags": [
+      "timeout",
+      "login"
+    ],
+    "related_issues": [
+      "ISSUE-015",
+      "ISSUE-014"
+    ],
+    "resolved_notes": "Area yard service strong majority understand throughout music none million fight age social represent nice.",
+    "last_updated": "2025-04-07T07:14:37.714987",
+    "priority": "medium",
+    "environment": {
+      "os": "Ubuntu",
+      "version": "9.3.70",
+      "region": "us-east-1"
+    }
+  },
+  {
+    "id": "ISSUE-008",
+    "timestamp": "2025-04-07T07:14:37.715174",
+    "severity": "warning",
+    "component": "logger",
+    "description": "Peace responsibility base author industry space.",
+    "logs": [
+      "Service database responded with status 500.",
+      "Service logger responded with status 500.",
+      "Memory usage at 9129MB exceeded threshold.",
+      "Error in logger: Financial season participant left community next."
+    ],
+    "diagnostics": {
+      "cpu_usage": 50.35,
+      "memory_mb": 7486
+    },
+    "status": "in_progress",
+    "assigned_to": "karenboyd",
+    "tags": [
+      "timeout",
+      "login"
+    ],
+    "related_issues": [
+      "ISSUE-010",
+      "ISSUE-016"
+    ],
+    "resolved_notes": "Rise meeting pressure camera mouth worker air heavy her.",
+    "last_updated": "2025-04-07T07:14:37.715174",
+    "priority": "low",
+    "environment": {
+      "os": "macOS",
+      "version": "4.1.93",
+      "region": "eu-west-2"
+    }
+  },
+  {
+    "id": "ISSUE-009",
+    "timestamp": "2025-04-07T07:14:37.715329",
+    "severity": "error",
+    "component": "auth-service",
+    "description": "Gas approach shoulder leader develop few case student whom type.",
+    "logs": [
+      "User 7660 failed login attempt.",
+      "Memory usage at 12995MB exceeded threshold.",
+      "Memory usage at 13937MB exceeded threshold."
+    ],
+    "diagnostics": {
+      "cpu_usage": 21.05,
+      "memory_mb": 3390
+    },
+    "status": "open",
+    "assigned_to": "gina13",
+    "tags": [
+      "login",
+      "API"
+    ],
+    "related_issues": [
+      "ISSUE-012",
+      "ISSUE-004"
+    ],
+    "resolved_notes": "Both model bring speak adult evening act compare during issue authority garden outside politics build.",
+    "last_updated": "2025-04-07T07:14:37.715329",
+    "priority": "high",
+    "environment": {
+      "os": "macOS",
+      "version": "2.0.91",
+      "region": "ap-southeast-1"
+    }
+  },
+  {
+    "id": "ISSUE-010",
+    "timestamp": "2025-04-07T07:14:37.715429",
+    "severity": "info",
+    "component": "payment-gateway",
+    "description": "Particular go fall woman least once floor our knowledge worry.",
+    "logs": [
+      "CPU usage spike to 57.96%.",
+      "Memory usage at 15449MB exceeded threshold.",
+      "Error in database: Interesting very peace keep none baby.",
+      "Error in frontend: Best others expect note late building."
+    ],
+    "diagnostics": {
+      "cpu_usage": 73.23,
+      "memory_mb": 8161
+    },
+    "status": "open",
+    "assigned_to": "scottstanton",
+    "tags": [
+      "login",
+      "db"
+    ],
+    "related_issues": [
+      "ISSUE-014",
+      "ISSUE-005"
+    ],
+    "resolved_notes": "Themselves good personal information meeting tax several purpose change us.",
+    "last_updated": "2025-04-07T07:14:37.715429",
+    "priority": "medium",
+    "environment": {
+      "os": "macOS",
+      "version": "7.7.0",
+      "region": "ap-southeast-1"
+    }
+  }
+]
