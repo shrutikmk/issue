@@ -1,0 +1,353 @@
+[
+  {
+    "chunk_id": "ISSUE-001_log_0",
+    "issue_id": "ISSUE-001",
+    "timestamp": "2025-04-07T07:14:37.711889",
+    "component": "payment-gateway",
+    "severity": "warning",
+    "log_text": "Error in auth-service: Half once put not raise.",
+    "clean_log_text": "Error in auth-service: Half once put not raise."
+  },
+  {
+    "chunk_id": "ISSUE-001_log_1",
+    "issue_id": "ISSUE-001",
+    "timestamp": "2025-04-07T07:14:37.711889",
+    "component": "payment-gateway",
+    "severity": "warning",
+    "log_text": "CPU usage spike to 95.79%.",
+    "clean_log_text": "CPU usage spike to 95.79%."
+  },
+  {
+    "chunk_id": "ISSUE-001_log_2",
+    "issue_id": "ISSUE-001",
+    "timestamp": "2025-04-07T07:14:37.711889",
+    "component": "payment-gateway",
+    "severity": "warning",
+    "log_text": "CPU usage spike to 14.88%.",
+    "clean_log_text": "CPU usage spike to 14.88%."
+  },
+  {
+    "chunk_id": "ISSUE-002_log_0",
+    "issue_id": "ISSUE-002",
+    "timestamp": "2025-04-07T07:14:37.712697",
+    "component": "frontend",
+    "severity": "info",
+    "log_text": "Token expired for session 45a8a05d.",
+    "clean_log_text": "Token expired for session 45a8a05d."
+  },
+  {
+    "chunk_id": "ISSUE-002_log_1",
+    "issue_id": "ISSUE-002",
+    "timestamp": "2025-04-07T07:14:37.712697",
+    "component": "frontend",
+    "severity": "info",
+    "log_text": "User 1087 failed login attempt.",
+    "clean_log_text": "User 1087 failed login attempt."
+  },
+  {
+    "chunk_id": "ISSUE-002_log_2",
+    "issue_id": "ISSUE-002",
+    "timestamp": "2025-04-07T07:14:37.712697",
+    "component": "frontend",
+    "severity": "info",
+    "log_text": "Service frontend responded with status 500.",
+    "clean_log_text": "Service frontend responded with status 500."
+  },
+  {
+    "chunk_id": "ISSUE-002_log_3",
+    "issue_id": "ISSUE-002",
+    "timestamp": "2025-04-07T07:14:37.712697",
+    "component": "frontend",
+    "severity": "info",
+    "log_text": "Error in auth-service: Sometimes discussion make per state.",
+    "clean_log_text": "Error in auth-service: Sometimes discussion make per state."
+  },
+  {
+    "chunk_id": "ISSUE-002_log_4",
+    "issue_id": "ISSUE-002",
+    "timestamp": "2025-04-07T07:14:37.712697",
+    "component": "frontend",
+    "severity": "info",
+    "log_text": "Error in frontend: It six box executive.",
+    "clean_log_text": "Error in frontend: It six box executive."
+  },
+  {
+    "chunk_id": "ISSUE-003_log_0",
+    "issue_id": "ISSUE-003",
+    "timestamp": "2025-04-07T07:14:37.713423",
+    "component": "payment-gateway",
+    "severity": "error",
+    "log_text": "CPU usage spike to 26.08%.",
+    "clean_log_text": "CPU usage spike to 26.08%."
+  },
+  {
+    "chunk_id": "ISSUE-003_log_1",
+    "issue_id": "ISSUE-003",
+    "timestamp": "2025-04-07T07:14:37.713423",
+    "component": "payment-gateway",
+    "severity": "error",
+    "log_text": "Memory usage at 8056MB exceeded threshold.",
+    "clean_log_text": "Memory usage at 8056MB exceeded threshold."
+  },
+  {
+    "chunk_id": "ISSUE-003_log_2",
+    "issue_id": "ISSUE-003",
+    "timestamp": "2025-04-07T07:14:37.713423",
+    "component": "payment-gateway",
+    "severity": "error",
+    "log_text": "CPU usage spike to 79.45%.",
+    "clean_log_text": "CPU usage spike to 79.45%."
+  },
+  {
+    "chunk_id": "ISSUE-003_log_3",
+    "issue_id": "ISSUE-003",
+    "timestamp": "2025-04-07T07:14:37.713423",
+    "component": "payment-gateway",
+    "severity": "error",
+    "log_text": "CPU usage spike to 42.37%.",
+    "clean_log_text": "CPU usage spike to 42.37%."
+  },
+  {
+    "chunk_id": "ISSUE-003_log_4",
+    "issue_id": "ISSUE-003",
+    "timestamp": "2025-04-07T07:14:37.713423",
+    "component": "payment-gateway",
+    "severity": "error",
+    "log_text": "Error in database: Southern raise fear agree player.",
+    "clean_log_text": "Error in database: Southern raise fear agree player."
+  },
+  {
+    "chunk_id": "ISSUE-004_log_0",
+    "issue_id": "ISSUE-004",
+    "timestamp": "2025-04-07T07:14:37.713631",
+    "component": "auth-service",
+    "severity": "critical",
+    "log_text": "User 2191 failed login attempt.",
+    "clean_log_text": "User 2191 failed login attempt."
+  },
+  {
+    "chunk_id": "ISSUE-004_log_1",
+    "issue_id": "ISSUE-004",
+    "timestamp": "2025-04-07T07:14:37.713631",
+    "component": "auth-service",
+    "severity": "critical",
+    "log_text": "User 6879 failed login attempt.",
+    "clean_log_text": "User 6879 failed login attempt."
+  },
+  {
+    "chunk_id": "ISSUE-004_log_2",
+    "issue_id": "ISSUE-004",
+    "timestamp": "2025-04-07T07:14:37.713631",
+    "component": "auth-service",
+    "severity": "critical",
+    "log_text": "Token expired for session cfac86d4.",
+    "clean_log_text": "Token expired for session cfac86d4."
+  },
+  {
+    "chunk_id": "ISSUE-005_log_0",
+    "issue_id": "ISSUE-005",
+    "timestamp": "2025-04-07T07:14:37.713796",
+    "component": "auth-service",
+    "severity": "warning",
+    "log_text": "Token expired for session a09403e7.",
+    "clean_log_text": "Token expired for session a09403e7."
+  },
+  {
+    "chunk_id": "ISSUE-005_log_1",
+    "issue_id": "ISSUE-005",
+    "timestamp": "2025-04-07T07:14:37.713796",
+    "component": "auth-service",
+    "severity": "warning",
+    "log_text": "Memory usage at 3867MB exceeded threshold.",
+    "clean_log_text": "Memory usage at 3867MB exceeded threshold."
+  },
+  {
+    "chunk_id": "ISSUE-005_log_2",
+    "issue_id": "ISSUE-005",
+    "timestamp": "2025-04-07T07:14:37.713796",
+    "component": "auth-service",
+    "severity": "warning",
+    "log_text": "Token expired for session 696f57b4.",
+    "clean_log_text": "Token expired for session 696f57b4."
+  },
+  {
+    "chunk_id": "ISSUE-006_log_0",
+    "issue_id": "ISSUE-006",
+    "timestamp": "2025-04-07T07:14:37.714165",
+    "component": "frontend",
+    "severity": "critical",
+    "log_text": "Token expired for session 4b9ccc62.",
+    "clean_log_text": "Token expired for session 4b9ccc62."
+  },
+  {
+    "chunk_id": "ISSUE-006_log_1",
+    "issue_id": "ISSUE-006",
+    "timestamp": "2025-04-07T07:14:37.714165",
+    "component": "frontend",
+    "severity": "critical",
+    "log_text": "CPU usage spike to 61.42%.",
+    "clean_log_text": "CPU usage spike to 61.42%."
+  },
+  {
+    "chunk_id": "ISSUE-006_log_2",
+    "issue_id": "ISSUE-006",
+    "timestamp": "2025-04-07T07:14:37.714165",
+    "component": "frontend",
+    "severity": "critical",
+    "log_text": "Error in logger: These those example throw.",
+    "clean_log_text": "Error in logger: These those example throw."
+  },
+  {
+    "chunk_id": "ISSUE-006_log_3",
+    "issue_id": "ISSUE-006",
+    "timestamp": "2025-04-07T07:14:37.714165",
+    "component": "frontend",
+    "severity": "critical",
+    "log_text": "User 6068 failed login attempt.",
+    "clean_log_text": "User 6068 failed login attempt."
+  },
+  {
+    "chunk_id": "ISSUE-006_log_4",
+    "issue_id": "ISSUE-006",
+    "timestamp": "2025-04-07T07:14:37.714165",
+    "component": "frontend",
+    "severity": "critical",
+    "log_text": "Token expired for session 207f77d2.",
+    "clean_log_text": "Token expired for session 207f77d2."
+  },
+  {
+    "chunk_id": "ISSUE-006_log_5",
+    "issue_id": "ISSUE-006",
+    "timestamp": "2025-04-07T07:14:37.714165",
+    "component": "frontend",
+    "severity": "critical",
+    "log_text": "User 1967 failed login attempt.",
+    "clean_log_text": "User 1967 failed login attempt."
+  },
+  {
+    "chunk_id": "ISSUE-007_log_0",
+    "issue_id": "ISSUE-007",
+    "timestamp": "2025-04-07T07:14:37.714987",
+    "component": "payment-gateway",
+    "severity": "error",
+    "log_text": "User 1912 failed login attempt.",
+    "clean_log_text": "User 1912 failed login attempt."
+  },
+  {
+    "chunk_id": "ISSUE-007_log_1",
+    "issue_id": "ISSUE-007",
+    "timestamp": "2025-04-07T07:14:37.714987",
+    "component": "payment-gateway",
+    "severity": "error",
+    "log_text": "CPU usage spike to 57.27%.",
+    "clean_log_text": "CPU usage spike to 57.27%."
+  },
+  {
+    "chunk_id": "ISSUE-007_log_2",
+    "issue_id": "ISSUE-007",
+    "timestamp": "2025-04-07T07:14:37.714987",
+    "component": "payment-gateway",
+    "severity": "error",
+    "log_text": "User 1346 failed login attempt.",
+    "clean_log_text": "User 1346 failed login attempt."
+  },
+  {
+    "chunk_id": "ISSUE-008_log_0",
+    "issue_id": "ISSUE-008",
+    "timestamp": "2025-04-07T07:14:37.715174",
+    "component": "logger",
+    "severity": "warning",
+    "log_text": "Service database responded with status 500.",
+    "clean_log_text": "Service database responded with status 500."
+  },
+  {
+    "chunk_id": "ISSUE-008_log_1",
+    "issue_id": "ISSUE-008",
+    "timestamp": "2025-04-07T07:14:37.715174",
+    "component": "logger",
+    "severity": "warning",
+    "log_text": "Service logger responded with status 500.",
+    "clean_log_text": "Service logger responded with status 500."
+  },
+  {
+    "chunk_id": "ISSUE-008_log_2",
+    "issue_id": "ISSUE-008",
+    "timestamp": "2025-04-07T07:14:37.715174",
+    "component": "logger",
+    "severity": "warning",
+    "log_text": "Memory usage at 9129MB exceeded threshold.",
+    "clean_log_text": "Memory usage at 9129MB exceeded threshold."
+  },
+  {
+    "chunk_id": "ISSUE-008_log_3",
+    "issue_id": "ISSUE-008",
+    "timestamp": "2025-04-07T07:14:37.715174",
+    "component": "logger",
+    "severity": "warning",
+    "log_text": "Error in logger: Financial season participant left community next.",
+    "clean_log_text": "Error in logger: Financial season participant left community next."
+  },
+  {
+    "chunk_id": "ISSUE-009_log_0",
+    "issue_id": "ISSUE-009",
+    "timestamp": "2025-04-07T07:14:37.715329",
+    "component": "auth-service",
+    "severity": "error",
+    "log_text": "User 7660 failed login attempt.",
+    "clean_log_text": "User 7660 failed login attempt."
+  },
+  {
+    "chunk_id": "ISSUE-009_log_1",
+    "issue_id": "ISSUE-009",
+    "timestamp": "2025-04-07T07:14:37.715329",
+    "component": "auth-service",
+    "severity": "error",
+    "log_text": "Memory usage at 12995MB exceeded threshold.",
+    "clean_log_text": "Memory usage at 12995MB exceeded threshold."
+  },
+  {
+    "chunk_id": "ISSUE-009_log_2",
+    "issue_id": "ISSUE-009",
+    "timestamp": "2025-04-07T07:14:37.715329",
+    "component": "auth-service",
+    "severity": "error",
+    "log_text": "Memory usage at 13937MB exceeded threshold.",
+    "clean_log_text": "Memory usage at 13937MB exceeded threshold."
+  },
+  {
+    "chunk_id": "ISSUE-010_log_0",
+    "issue_id": "ISSUE-010",
+    "timestamp": "2025-04-07T07:14:37.715429",
+    "component": "payment-gateway",
+    "severity": "info",
+    "log_text": "CPU usage spike to 57.96%.",
+    "clean_log_text": "CPU usage spike to 57.96%."
+  },
+  {
+    "chunk_id": "ISSUE-010_log_1",
+    "issue_id": "ISSUE-010",
+    "timestamp": "2025-04-07T07:14:37.715429",
+    "component": "payment-gateway",
+    "severity": "info",
+    "log_text": "Memory usage at 15449MB exceeded threshold.",
+    "clean_log_text": "Memory usage at 15449MB exceeded threshold."
+  },
+  {
+    "chunk_id": "ISSUE-010_log_2",
+    "issue_id": "ISSUE-010",
+    "timestamp": "2025-04-07T07:14:37.715429",
+    "component": "payment-gateway",
+    "severity": "info",
+    "log_text": "Error in database: Interesting very peace keep none baby.",
+    "clean_log_text": "Error in database: Interesting very peace keep none baby."
+  },
+  {
+    "chunk_id": "ISSUE-010_log_3",
+    "issue_id": "ISSUE-010",
+    "timestamp": "2025-04-07T07:14:37.715429",
+    "component": "payment-gateway",
+    "severity": "info",
+    "log_text": "Error in frontend: Best others expect note late building.",
+    "clean_log_text": "Error in frontend: Best others expect note late building."
+  }
+]
